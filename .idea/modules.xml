@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Nespasiboqa.iml" filepath="$PROJECT_DIR$/.idea/Nespasiboqa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.gradle/.gradle.iml" filepath="$PROJECT_DIR$/.gradle/.gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gradle/Gradle.iml" filepath="$PROJECT_DIR$/Gradle/Gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/java/java.iml" filepath="$PROJECT_DIR$/src/test/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
     </modules>
   </component>
 </project>
