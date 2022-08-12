@@ -5,8 +5,9 @@ import org.testng.annotations.Test;
 
 public class FirstTest {
     @Test
-    void firstTest() {
-        Assertions.assertTrue(condition: true);
+    void firstTest {
+
+        Assertions.assertTrue(condition:true);
     }
 
 
